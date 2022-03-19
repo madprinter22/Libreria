@@ -14,3 +14,6 @@ Consignas a tener en cuenta
 - Clonar el repositorio
 - Crear una nueva rama con el nombre de la funcionalidad a desarrollar
 - Una vez desarrollado realizar una PR al repositorio original para la revision de los cambios
+
+## **Alternativa:**
+Crear un repositorio propio con un nuevo proyecto que haga uso de los conceptos explicados
